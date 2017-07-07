@@ -1,7 +1,7 @@
 # hunter
 import java.util.Scanner;
 
-public class Indexequals {
+public class Index {
   private static Scanner s;
   
   public static void main(String[] args) {
