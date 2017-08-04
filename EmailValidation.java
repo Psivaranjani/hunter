@@ -27,12 +27,12 @@ public class EmailValidation {
           if(l1>=3)
           {
             System.out.println("EMAIL IS VALID");
-          } 
-          else {
-            System.out.println("NOT VALID");
-          } 
+          }  
         }
       }
     }
+    else {
+            System.out.println("NOT VALID");
+          } 
   }
 }
